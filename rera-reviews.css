@@ -1,0 +1,41 @@
+.reviews li .author:before {
+  content: '  -  ';
+}
+
+.reviews li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.reviews.mosaic {
+
+}
+
+.single-review .post-meta {
+  display: none;
+}
+
+.archive.tax-collection .type-review {
+  width: 46%;
+  float: left;
+  background: #f6f6f6;
+  margin: 0 1% 20px 1%;
+  padding: 20px 20px 50px 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.archive.tax-collection .type-review h2 {
+  margin-top: 10px;
+  font-size: 1em;
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+}
+.archive.tax-collection .type-review h2:before {
+  content: '  -  ';
+}
+
+.archive.tax-collection .type-review .post-meta {
+  display: none;
+}
