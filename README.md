@@ -1,6 +1,8 @@
 # rera-reviews
 
-### Fetaures
+* old wordpress plugin
+
+### Features
 * Custom post type for Reviews
 * Custom taxonomy for Collections of Reviews
 * Page Template for front-end form submission of Reviews
